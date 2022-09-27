@@ -1,0 +1,2 @@
+# Tratamento_de_Dados_das_Tops_Trends_do_Twtter
+O Código utiliza a API do Twitter (Tweepy), visando a extração dos dados em tempo real das Tops Trends do Twitter Brasil, com o intuito de tratar os dados para uma melhor visualização das informações. As informações são armazenadas em um Data Frame, onde são tratadas e filtradas, para assim  serem plotadas em um Gráfico das "Top 5 Trends com maiis Tweets no Brasil" com a respectiva data e hora da coleta dos dados. Como extra é gerado um WordCloud das Trends em relação ao numero de Tweets das mesmas. 
