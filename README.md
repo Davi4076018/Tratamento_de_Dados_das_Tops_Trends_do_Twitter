@@ -18,12 +18,13 @@ O Código utiliza a API do Twitter (Tweepy), visando a extração dos dados em t
 
 # Módulos e Packages Utilizados 💡
 
-- 🔗 [Tkinter - Python Interface](https://docs.python.org/3/library/tkinter.html)
-- 🔗 [Inspect - Live Objects](https://docs.python.org/3/library/inspect.html)
-- 🔗 [Pyperclip - Clipboard Module for Python](https://pypi.org/project/pyperclip/)
-- 🔗 [Pillow - Python Imaging Library](https://pillow.readthedocs.io/en/stable/)
-- 🔗 [Re - Regular Expression Operations](https://docs.python.org/3/library/re.html)
-- 🔗 [Os - Miscellaneous Operating System Interfaces](https://docs.python.org/3/library/os.html)
+- 🔗 [Geocoder - Geocoding library](https://pypi.org/project/geocoder/)
+- 🔗 [Tweepy - Twitter library for Python](https://pypi.org/project/tweepy/)
+- 🔗 [Toml - Python Library for Tom's Obvious, Minimal Language](https://pypi.org/project/toml/)
+- 🔗 [Pandas - Powerful data structures for data analysis, time series, and statistics](https://pypi.org/project/pandas/)
+- 🔗 [Matplotlib - Python plotting package](https://pypi.org/project/matplotlib/)
+- 🔗 [Datetime - Basic date and time types](https://docs.python.org/3/library/datetime.html)
+- 🔗 [Wordcloud - A little word cloud generator](https://pypi.org/project/wordcloud/)
 
 
 ## Autor ⌨️
